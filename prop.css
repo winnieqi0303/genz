@@ -152,7 +152,7 @@ body {
   }
   .parallax17 {
     /* The image used */
-    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
+    background-image: url("https://static01.nyt.com/images/2018/01/03/opinion/03wed2/03wed2-superJumbo.jpg");
   
     /* Set a specific height */
     min-height: 800px; 
@@ -205,10 +205,10 @@ body {
   
   .parallax24 {
     /* The image used */
-    background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2019/12/ccpa-compliance-featured-image.jpg");
+    background-image: url("https://cdn2.vectorstock.com/i/1000x1000/66/31/online-security-data-protection-vector-21786631.jpg");
   
     /* Set a specific height */
-    min-height: 800px; 
+    min-height: 700px; 
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
