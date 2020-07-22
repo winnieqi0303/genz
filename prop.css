@@ -8,15 +8,16 @@ body {
   h1 {
     font-style: bold;
     color: white;
-    font-family: 'Oxygen', sans-serif;
-    text-align: left;
+    font-family: 'Oxygen';
   }
   
   h2 {
+    font-family: sans-serif;
     color: white;
   }
   
   p {
+    font-family:sans-serif;
     color: white;
   }
   
@@ -89,6 +90,7 @@ body {
     text-align:center;
     font-size: 36px;
     color: white;
+    background-color:#333;
   }
   
   * {
@@ -100,7 +102,7 @@ body {
     float: left;
     width: 50%;
     padding: 10px;
-    height: 600px;
+    height: 1000px;
   }
   
   /* Clear floats after the columns */
@@ -120,12 +122,13 @@ body {
      text-align: center;
   }
 
-  .parallax {
+  
+  .parallax15 {
     /* The image used */
-    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
+    background-image: url("https://www.aclusocal.org/sites/default/files/field_image/cs-image-20180313.jpg");
   
     /* Set a specific height */
-    min-height: 1000px; 
+    min-height: 800px; 
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -133,4 +136,71 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+  .parallax16 {
+    /* The image used */
+    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
   
+    /* Set a specific height */
+    min-height: 800px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax17 {
+    /* The image used */
+    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
+  
+    /* Set a specific height */
+    min-height: 800px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax18 {
+    /* The image used */
+    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
+  
+    /* Set a specific height */
+    min-height: 800px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax20 {
+    /* The image used */
+    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
+  
+    /* Set a specific height */
+    min-height: 800px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax24 {
+    /* The image used */
+    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
+  
+    /* Set a specific height */
+    min-height: 800px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .white{
+    color:white;
+  }
