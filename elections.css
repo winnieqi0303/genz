@@ -94,6 +94,12 @@ body {
   }
   
   /* Create two equal columns that floats next to each other */
+  .columnprez {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 1000px;
+  }
   .column {
     float: left;
     width: 50%;

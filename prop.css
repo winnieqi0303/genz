@@ -17,8 +17,9 @@ body {
   }
   
   p {
-    font-family:sans-serif;
-    color: white;
+    font-family:'Oxygen';
+    color: black;
+    font-size:25px;
   }
   
   .navbar {
@@ -138,10 +139,10 @@ body {
   }
   .parallax16 {
     /* The image used */
-    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
+    background-image: url("https://media.npr.org/assets/img/2018/07/06/robdobi_npr_aa_slide-1e47fc9caa22b9f38294882a9339d791172292b4.jpeg");
   
     /* Set a specific height */
-    min-height: 800px; 
+    min-height: 700px; 
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -164,7 +165,7 @@ body {
   }
   .parallax18 {
     /* The image used */
-    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
+    background-image: url("https://static01.nyt.com/images/2018/03/04/opinion/04gray-WEB/04gray-WEB-superJumbo.jpg");
   
     /* Set a specific height */
     min-height: 800px; 
@@ -188,9 +189,23 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+  .parallax21 {
+    /* The image used */
+    background-image: url("https://california.need.estate/images/NEWS/law/rent-control/rent_angry-people.jpg");
+  
+    /* Set a specific height */
+    min-height: 800px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
   .parallax24 {
     /* The image used */
-    background-image: url("https://media.npr.org/assets/img/2018/04/20/ap_18110715539373_wide-2a8d76d952e0e99a8e9d5da0599bd61779807c75-s800-c85.jpg");
+    background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2019/12/ccpa-compliance-featured-image.jpg");
   
     /* Set a specific height */
     min-height: 800px; 
@@ -203,4 +218,7 @@ body {
   }
   .white{
     color:white;
+  }
+  .black{
+    color:black;
   }
